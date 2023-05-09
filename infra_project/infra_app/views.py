@@ -10,4 +10,4 @@ def second_page(request):
 
 
 def third_page(request):
-    return HttpResponse('новая третья страница!')
+    return HttpResponse('Новая третья страница! Добавлен бот!')
